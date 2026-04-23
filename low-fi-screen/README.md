@@ -1,4 +1,4 @@
-# low-fi-screen
+# Low-fi-screen quick start
 
 Create low-fidelity website and mobile app structures for stakeholder review before moving into detailed UI design or copywriting.
 
